@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documents</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>README.md</string>
+			<key>lastUsed</key>
+			<date>2012-04-24T21:52:49Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>Makefile</string>
+			<key>lastUsed</key>
+			<date>2012-04-24T21:53:54Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>cv.sty</string>
+			<key>lastUsed</key>
+			<date>2012-04-24T21:54:08Z</date>
+			<key>selected</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>cv.tex</string>
+			<key>lastUsed</key>
+			<date>2012-04-24T21:53:07Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>cover.tex</string>
+		</dict>
+		<dict>
+			<key>expanded</key>
+			<true/>
+			<key>name</key>
+			<string>me</string>
+			<key>regexFolderFilter</key>
+			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+			<key>sourceDirectory</key>
+			<string>me</string>
+		</dict>
+	</array>
+	<key>fileHierarchyDrawerWidth</key>
+	<integer>200</integer>
+	<key>metaData</key>
+	<dict/>
+	<key>showFileHierarchyDrawer</key>
+	<false/>
+	<key>windowFrame</key>
+	<string>{{0, 62}, {720, 816}}</string>
+</dict>
+</plist>

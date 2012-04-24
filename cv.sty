@@ -4,6 +4,10 @@
 \RequirePackage[pdftex]{hyperref}
 \RequirePackage{metalogo}
 
+% Load Packages
+\usepackage{textcomp}
+\usepackage[firstyear=2005,lastyear=2012]{moderntimeline}
+
 % Personal Info
 \input{me/meta.tex}
 
@@ -12,4 +16,10 @@
 
 % Style Tweaks
 \usepackage[scale=0.75]{geometry}
+\tlwidth{0.6ex}
+\newenvironment{tightitemize}
+   {\begin{itemize}
+	\renewcommand{\labelitemi}{-- }
+	\setlength{\parskip}{0pt}}
+   {\end{itemize}}
 
