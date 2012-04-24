@@ -4,10 +4,13 @@ Electrical Engineering, Systems & Controls
 University of Waterloo. Ontario, Canada.
 -->
 
-### Curriculum Vitae
----
+## Curriculum Vitae
 
-This is my fork of [moderncv][1]. Currently a work in progress.. 
+This is my fork of [moderncv][1]. Currently a work in progress and the output looks like:  
+
+[![center](http://safwanc.com/github/cv.png)][1]
+
+---
 
 #### Generating PDFs
 
