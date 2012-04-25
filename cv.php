@@ -95,7 +95,7 @@
 					<div class="caption">
 						<h3>Design Project</h3>
 						<p>
-							Temp.
+							Built a fully functional prototype of a thought-controlled wheelchair which is powered by electroencephalography (EEG) for a fourth-year design project. Won first place at the annual ECE Design Project Symposium.
 						</p>
 						<p>
 							<a href="#" class="btn btn-primary">Action</a> 
@@ -110,7 +110,7 @@
 					<div class="caption">
 						<h3>Humanoid Project</h3>
 						<p>
-							Temp.
+							Electromechanical design and dynamic modelling of a humanoid robot platform for the Adaptive Systems Laboratory at the University of Waterloo. This is a 14 degree-of-freedom (DOF) lower body bipedal robot aimed for walking research.
 						</p>
 						<p>
 							<a href="#" class="btn btn-primary">Action</a> 
@@ -125,7 +125,7 @@
 					<div class="caption">
 						<h3>TEDxUW Talk</h3>
 						<p>
-							Temp.
+							Invited to speak at the first ever TEDxUW event held on the University of Waterloo campus. Presented a talk about overcoming the various challenges faced during the development of the thought-controlled wheelchair and key lessons learned.
 						</p>
 						<p>
 							<a href="#" class="btn btn-primary">Action</a> 
