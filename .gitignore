@@ -46,3 +46,6 @@
 
 # Latexian Live Preview
 TSWLatexianTemp*
+
+# TextMate Project Files
+*.tmproj
