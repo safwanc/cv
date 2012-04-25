@@ -44,7 +44,7 @@
           <div class="nav-collapse">
             <ul class="nav">
 				<li class="active"><a href="http://cv.safwanc.com">CV</a></li>
-<!--			<li><a href="http://sfwn.in/G6l2">LinkedIn</a></li> 			-->
+				<li><a href="https://ece.uwaterloo.ca/~schoudhu/">UWaterloo</a></li>
 <!--			<li><a href="http://sfwn.in/G6S4">GitHub</a></li>				-->
 <!--			<li><a href="mailto:im@safwanc.com">Contact</a></li>			-->
             </ul>
@@ -65,16 +65,16 @@
         <div class="span3">
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
-              <li class="nav-header">Curriculum Vitae</li>
-	              <li><a href="#">View Online</a></li>
+              	<li class="nav-header">Curriculum Vitae</li>
+<!-- 			<li><a href="#">View Online</a></li> 			-->
 	              <li><a href="http://cv.safwanc.com/SafwanChoudhury.pdf">Download PDF</a></li>
               <li class="nav-header">Projects</li>
 	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/projects/fydp/">Design Project</a></li>
 	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/projects/humanoid/">Humanoid Project</a></li>
 	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/research/course-projects/">Research Papaers</a></li>
               <li class="nav-header">Elsewhere</li>
-	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/">UWaterloo</a></li>
 	              <li><a href="http://www.linkedin.com/in/safwanchoudhury">LinkedIn</a></li>
+	              <li><a href="http://uwaterloo.academia.edu/safwanc">Academia</a></li>
 	              <li><a href="https://github.com/safwanc">GitHub</a></li>
             </ul>
           </div><!--/.well -->
