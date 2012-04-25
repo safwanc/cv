@@ -1,31 +1,49 @@
 \ProvidesPackage{cv}
 
-% Requirements
+% ========================================================= REQUIRED
+
 \RequirePackage[pdftex]{hyperref}
 \RequirePackage{metalogo}
 
-% Load Packages
+% ========================================================= LOAD PACKAGES
+
 \usepackage{textcomp}
 \usepackage[firstyear=2005,lastyear=2012]{moderntimeline}
 \usepackage{microtype}
 
-% Personal Info
-\input{me/meta.tex}
+% ========================================================= PERSONAL INFO
 
-% Style Configuration
+% NOTE: Store personal informatin in a seperate TeX file: 
+\input{me/meta.tex}
+% .. OR uncomment the following lines and fill in the info:
+% \firstname{Safwan}
+% \familyname{Choudhury}
+% \address{Some Random Street, Apt 10}{Some City, ON. P0S T4L}
+% \phone{+1 (123) 456-7890}
+% \mobile{+1 (123) 456-7890}
+% \email{im@safwanc.com}
+% \homepage{cv.safwanc.com}
+% \photo[58pt][0.2pt]{img/cv-image.png}
+
+% ========================================================= CV STYLING
+
+% Modern CV Theme
 \moderncvtheme[grey]{classic}
 
 % Style Tweaks
 \usepackage[scale=0.75]{geometry}
+
+% Width adjustment for text in moderntimeline
 \tlwidth{0.6ex}
+
+% For squeezing in blocks of itemized text in CV entries
 \newenvironment{tightitemize}
    {\begin{itemize}
 	\renewcommand{\labelitemi}{-- }
 	\setlength{\parskip}{0pt}}
    {\end{itemize}}
 
+% Reformatting listing of skills
 \usepackage[originalcommands]{ragged2e}
 \renewcommand*{\cvcomputer}[4]{%
   \cvdoubleitem{#1}{\small\raggedright#2}{#3}{\small\raggedright#4}}
-
-% \renewcommand*{\tldatelabelcventry}{\setlength{\parskip}{0pt}}
