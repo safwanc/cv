@@ -7,6 +7,7 @@
 % Load Packages
 \usepackage{textcomp}
 \usepackage[firstyear=2005,lastyear=2012]{moderntimeline}
+\usepackage{microtype}
 
 % Personal Info
 \input{me/meta.tex}
@@ -23,3 +24,8 @@
 	\setlength{\parskip}{0pt}}
    {\end{itemize}}
 
+\usepackage[originalcommands]{ragged2e}
+\renewcommand*{\cvcomputer}[4]{%
+  \cvdoubleitem{#1}{\small\raggedright#2}{#3}{\small\raggedright#4}}
+
+% \renewcommand*{\tldatelabelcventry}{\setlength{\parskip}{0pt}}
