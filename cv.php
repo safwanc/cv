@@ -91,11 +91,7 @@
 					<div class="caption">
 						<h3>Design Project</h3>
 						<p>
-							Built a fully functional prototype of a thought-controlled wheelchair which is powered by electroencephalography (EEG) for a fourth-year design project. Won first place at the annual ECE Design Project Symposium.
-						</p>
-						<p>
-							<a href="#" class="btn btn-primary">Action</a> 
-							<a href="#" class="btn">Action</a>
+							Built a fully functional prototype of a thought-controlled wheelchair which is powered by EEG (electroencephalography) for a fourth-year design project. Won first place at the annual ECE Design Project Symposium.
 						</p>
 					</div>
 				</div>
@@ -108,10 +104,6 @@
 						<p>
 							Electromechanical design and dynamic modelling of a humanoid robot platform for the Adaptive Systems Laboratory at the University of Waterloo. This is a 14 degree-of-freedom (DOF) lower body bipedal robot aimed for walking research.
 						</p>
-						<p>
-							<a href="#" class="btn btn-primary">Action</a> 
-							<a href="#" class="btn">Action</a>
-						</p>
 					</div>
 				</div>
             </div><!--/span-->
@@ -121,11 +113,7 @@
 					<div class="caption">
 						<h3>TEDxUW Talk</h3>
 						<p>
-							Invited to speak at the first ever TEDxUW event held on the University of Waterloo campus. Presented a talk about overcoming the various challenges faced during the development of the thought-controlled wheelchair and key lessons learned.
-						</p>
-						<p>
-							<a href="#" class="btn btn-primary">Action</a> 
-							<a href="#" class="btn">Action</a>
+							Invited speaker at the first ever TEDx event held on University of Waterloo campus. Presented a talk about overcoming various challenges and key lessons learned during the development of the thought-controlled wheelchair.
 						</p>
 					</div>
 				</div>
