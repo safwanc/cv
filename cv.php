@@ -62,26 +62,22 @@
 		</div>
 		
       <div class="row-fluid">
-        <div class="span3">
+        <div class="span3" id="cv-nav">
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
               	<li class="nav-header">Curriculum Vitae</li>
 <!-- 			<li><a href="#">View Online</a></li> 			-->
-	              <li><a href="http://cv.safwanc.com/SafwanChoudhury.pdf">Download PDF</a></li>
+	              <li><a id ="dlcv" href="#">Download PDF</a></li>
               <li class="nav-header">Projects</li>
 	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/projects/fydp/">Design Project</a></li>
 	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/projects/humanoid/">Humanoid Project</a></li>
-	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/research/course-projects/">Research Papaers</a></li>
+	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/research/course-projects/">Research Papers</a></li>
               <li class="nav-header">Elsewhere</li>
 	              <li><a href="http://www.linkedin.com/in/safwanchoudhury">LinkedIn</a></li>
 	              <li><a href="http://uwaterloo.academia.edu/safwanc">Academia</a></li>
 	              <li><a href="https://github.com/safwanc">GitHub</a></li>
             </ul>
           </div><!--/.well -->
-		<div class="alert alert-info">
-		  <button class="close" data-dismiss="alert">×</button>
-		  <strong>Downloaded</strong> The PDF copy should be in your download folder shortly.
-		</div>
         </div><!--/span-->
         <div class="span9">
           <div class="hero-unit">
@@ -159,13 +155,11 @@
     <script src="js/bootstrap-modal.js"></script>
     <script src="js/bootstrap-dropdown.js"></script>
     <script src="js/bootstrap-scrollspy.js"></script>
-    <script src="js/bootstrap-tab.js"></script>
     <script src="js/bootstrap-tooltip.js"></script>
-    <script src="js/bootstrap-popover.js"></script>
     <script src="js/bootstrap-button.js"></script>
-    <script src="js/bootstrap-collapse.js"></script>
-    <script src="js/bootstrap-carousel.js"></script>
-    <script src="js/bootstrap-typeahead.js"></script>
+    
+    <!-- Custom JS --> 
+	<script src="js/cv.js"></script>
 
   </body>
 </html>
