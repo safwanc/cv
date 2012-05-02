@@ -6,13 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Curriculum Vitae">
     <meta name="author" content="Safwan Choudhury">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
     <style>
       body {
         padding-top: 60px;
       }
     </style>
     <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="css/cv.css" rel="stylesheet">
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -44,7 +45,7 @@
           <div class="nav-collapse">
             <ul class="nav">
 				<li class="active"><a href="http://cv.safwanc.com">CV</a></li>
-				<li><a href="https://ece.uwaterloo.ca/~schoudhu/">UWaterloo</a></li>
+				<li><a href="https://ece.uwaterloo.ca/~schoudhu/" target="blank">UW</a></li>
 <!--			<li><a href="http://sfwn.in/G6S4">GitHub</a></li>				-->
 <!--			<li><a href="mailto:im@safwanc.com">Contact</a></li>			-->
             </ul>
@@ -125,12 +126,22 @@
       <hr>
 
 	<footer>
-		<p>
-			Copyright &copy; Safwan Choudhury <?php echo date("Y"); ?>. 
-			Built with <a href="http://twitter.github.com/bootstrap/">Bootstrap</a>.
-			Hosted on <a href="http://www.mediatemple.net">MediaTemple</a>.
-			Pushed via <a href="https://github.com/safwanc/cv">GitHub</a>.
-		</p>
+		<div class="row-fluid">
+			<div class="span8">
+			<p>
+				Copyright &copy; Safwan Choudhury <?php echo date("Y"); ?>. 
+				Built with <a href="http://twitter.github.com/bootstrap/">Bootstrap</a>.
+				Hosted on <a href="http://www.mediatemple.net">MediaTemple</a>.
+				Pushed via <a href="https://github.com/safwanc/cv">GitHub</a>.
+			</p>
+			</div>
+			<div class="span4">
+			<p class="pull-right">
+				<span class="label"><a href="http://sfwn.in/GIw1" target="blank">HTML5</a></span>
+				<span class="label"><a href="http://sfwn.in/GIvX" target="blank">CSS 3.0</a></span>
+			</p>
+			</div>
+		</div>
 	</footer>
 
     </div><!--/.fluid-container-->
