@@ -77,17 +77,17 @@
 <!-- 			<li><a href="#">View Online</a></li> 			-->
 	              <li><a id ="dlcv" href="#">Download PDF</a></li>
               <li class="nav-header">Projects</li>
-	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/projects/fydp/">Design Project</a></li>
-	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/projects/humanoid/">Humanoid Project</a></li>
-	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/research/course-projects/">Research Papers</a></li>
+	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/projects/fydp/" target="_blank">Design Project</a></li>
+	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/projects/humanoid/" target="_blank">Humanoid Project</a></li>
+	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/research/course-projects/" target="_blank">Course Projects</a></li>
               <li class="nav-header">Speaking</li>
-                <li><a href="https://ece.uwaterloo.ca/~schoudhu/about/tedxuw/">TEDxUW Talk</a></li>
+                <li><a href="https://ece.uwaterloo.ca/~schoudhu/about/tedxuw/" target="_blank">TEDxUW Talk</a></li>
               <li class="nav-header">Writing</li>
-                <li><a href="http://scholar.google.com/scholar?hl=en&q=%22Safwan+Choudhury%22">Authored Papers</a></li>
+                <li><a href="http://scholar.google.com/scholar?hl=en&q=%22Safwan+Choudhury%22" target="_blank">Research Papers</a></li>
               <li class="nav-header">Elsewhere</li>
-	              <li><a href="http://www.linkedin.com/in/safwanchoudhury" target="blank">LinkedIn</a></li>
-	              <li><a href="http://uwaterloo.academia.edu/safwanc" target="blank">Academia</a></li>
-	              <li><a href="https://github.com/safwanc" target="blank">GitHub</a></li>
+	              <li><a href="http://www.linkedin.com/in/safwanchoudhury" target="_blank">LinkedIn</a></li>
+	              <li><a href="http://uwaterloo.academia.edu/safwanc" target="_blank">Academia</a></li>
+	              <li><a href="https://github.com/safwanc" target="_blank">GitHub</a></li>
             </ul>
           </div><!--/.well -->
         </div><!--/span-->
@@ -126,7 +126,7 @@
             </div><!--/span-->
             <div class="span4">
 				<div class="thumbnail">
-					<img src="img/thumb-tedx.png" width="260" height="160" alt="On Stage Speaking at TEDxUW 2011">
+					<a href="#" target="_blank"><img src="img/thumb-tedx.png" width="260" height="160" alt="On Stage Speaking at TEDxUW 2011"></a>
 					<div class="caption">
 						<h3>TEDxUW Talk</h3>
 						<p>
