@@ -97,7 +97,7 @@
         <div class="span9">
           <div class="hero-unit">
             <h2>Hey there!</h2>
-            <p>I'm a Electrical Engineering graduate student at the University of Waterloo in Ontario, Canada. Over the past few years, I've built a thought-controlled wheelchair, a 14DOF bipedal robot and gave a talk at TEDxUW. Feel free to look around this page for more details on some of the projects I've worked on. </p>
+            <p>I'm a Electrical Engineering graduate student at the University of Waterloo in Ontario, Canada. Over the past few years, I've built a thought-controlled wheelchair, designed a 14DOF humanoid robot, written a few papers on bipedal locomotion and gave a <a href="https://ece.uwaterloo.ca/~schoudhu/about/tedxuw/">talk at TEDxUW.</a> </p>
           </div>
           
           <!-- Project Summaries -->
