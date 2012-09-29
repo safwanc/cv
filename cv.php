@@ -10,9 +10,9 @@
     <meta name="copyright" content="&copy; Safwan Choudhury">
     
     <!-- UX & SEO Meta -->
-    <meta name=”robots” content=”index,nofollow”>
+    <meta name="robots" content="index,nofollow" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     <!-- CSS Styling -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -83,7 +83,7 @@
               <li class="nav-header">Speaking</li>
                 <li><a href="https://ece.uwaterloo.ca/~schoudhu/about/tedxuw/" target="_blank">TEDxUW Talk</a></li>
               <li class="nav-header">Writing</li>
-                <li><a href="http://scholar.google.com/scholar?hl=en&q=%22Safwan+Choudhury%22" target="_blank">Research Papers</a></li>
+                <li><a href="http://scholar.google.com/scholar?q=%22Safwan+Choudhury%22" target="_blank">Research Papers</a></li>
               <li class="nav-header">Elsewhere</li>
 	              <li><a href="http://www.linkedin.com/in/safwanchoudhury" target="_blank">LinkedIn</a></li>
 	              <li><a href="http://uwaterloo.academia.edu/safwanc" target="_blank">Academia</a></li>
@@ -97,14 +97,14 @@
         <div class="span9">
           <div class="hero-unit">
             <h2>Hey there!</h2>
-            <p>I'm a Electrical Engineering graduate student at the University of Waterloo in Ontario, Canada. Over the past few years, I've built a thought-controlled wheelchair, designed a 14DOF humanoid robot, written a few papers on bipedal locomotion and gave a <a href="https://ece.uwaterloo.ca/~schoudhu/about/tedxuw/">talk at TEDxUW.</a> </p>
+            <p>I'm a Electrical Engineering <a href="https://ece.uwaterloo.ca/~schoudhu/" target="_blank">graduate student</a> at the University of Waterloo in Ontario, Canada. Over the past few years, I've built a <a href="https://ece.uwaterloo.ca/~schoudhu/projects/fydp/" target="_blank">thought-controlled wheelchair</a>, designed a <a href="https://ece.uwaterloo.ca/~schoudhu/projects/humanoid/" target="_blank">14DOF humanoid robot</a>, authored a few <a href="http://scholar.google.com/scholar?q=%22Safwan+Choudhury%22" target="_blank">research papers</a> in robotics and presented a <a href="https://ece.uwaterloo.ca/~schoudhu/about/tedxuw/" target="_blank">talk at TEDxUW.</a> </p>
           </div>
           
           <!-- Project Summaries -->
           <div class="row-fluid">
             <div class="span4">
 				<div class="thumbnail">
-					<img src="img/thumb-fydp.png" width="260" height="160" alt="Thought-Controlled Wheelchair for Fourth Year Design Project">
+					<a href="https://ece.uwaterloo.ca/~schoudhu/projects/fydp/" target="_blank"><img src="img/thumb-fydp.png" width="260" height="160" alt="Thought-Controlled Wheelchair for Fourth Year Design Project"></a>
 					<div class="caption">
 						<h3>Design Project</h3>
 						<p>
@@ -115,7 +115,7 @@
             </div><!--/span-->
             <div class="span4">
 				<div class="thumbnail">
-					<img src="img/thumb-biped.png" width="260" height="160" alt="14DOF Bipedal Robot for MASc Thesis Project">
+					<a href="https://ece.uwaterloo.ca/~schoudhu/projects/humanoid/" target="_blank"><img src="img/thumb-biped.png" width="260" height="160" alt="14DOF Bipedal Robot for MASc Thesis Project"></a>
 					<div class="caption">
 						<h3>Humanoid Project</h3>
 						<p>
@@ -126,9 +126,9 @@
             </div><!--/span-->
             <div class="span4">
 				<div class="thumbnail">
-					<a href="#" target="_blank"><img src="img/thumb-tedx.png" width="260" height="160" alt="On Stage Speaking at TEDxUW 2011"></a>
+					<a href="https://ece.uwaterloo.ca/~schoudhu/about/tedxuw/" target="_blank"><img src="img/thumb-tedx.png" width="260" height="160" alt="On Stage Speaking at TEDxUW 2011"></a>
 					<div class="caption">
-						<h3>TEDxUW Talk</h3>
+						<h3>TEDxUW 2011</h3>
 						<p>
 							Invited speaker at the first ever TEDx event held on University of Waterloo campus. Presented a talk about overcoming various challenges and key lessons learned during the development of the thought-controlled wheelchair.
 						</p>
