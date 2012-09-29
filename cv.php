@@ -143,7 +143,6 @@
 				Copyright &copy; Safwan Choudhury <?php echo date("Y"); ?>. 
 				Built with <a href="http://twitter.github.com/bootstrap/">Bootstrap</a>.
 				Hosted on <a href="http://www.mediatemple.net">MediaTemple</a>.
-				Pushed via <a href="https://github.com/safwanc/cv">GitHub</a>.
 			</p>
 			</div>
 			<div class="span4">
