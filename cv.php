@@ -61,11 +61,12 @@
 
 	<!-- Main Content -->
     <div class="container-fluid">
+    <!--
 		<div class="alert">
 		  <button class="close" data-dismiss="alert">×</button>
 		  <strong>Warning!</strong> This page is a work in progress and is still under construction.
 		</div>
-		
+		-->
       <div class="row-fluid">
       
       	<!-- Left Side -->
