@@ -7,7 +7,6 @@
     <meta name="author" content="Safwan Choudhury">
     <meta name="description" content="A portfolio-style curriculum vitae website showcasing the projects Safwan Choudhury has been involved with over the past few years.">
     <meta name="keywords" content="Safwan Choudhury CV Curriculum Vitae safwanc">
-    <meta name="copyright" content="&copy; Safwan Choudhury">
     
     <!-- UX & SEO Meta -->
     <meta name="robots" content="index,nofollow" />
