@@ -148,14 +148,18 @@
 			<div class="span8">
 			<p>
 				Copyright &copy; Safwan Choudhury <?php echo date("Y"); ?>. 
+        <!--
 				Built with <a href="http://twitter.github.com/bootstrap/">Bootstrap</a>.
 				Hosted on <a href="http://www.mediatemple.net">MediaTemple</a>.
+      -->
 			</p>
 			</div>
 			<div class="span4">
 			<p class="pull-right">
+        <!--
 				<span class="label"><a href="http://sfwn.in/GIw1" target="blank">HTML5</a></span>
 				<span class="label"><a href="http://sfwn.in/GIvX" target="blank">CSS 3.0</a></span>
+      -->
 			</p>
 			</div>
 		</div>
