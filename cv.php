@@ -49,10 +49,12 @@
           </a>
           <a class="brand" href="#">Safwan Choudhury</a>
           <div class="nav-collapse">
+            <!--
             <ul class="nav">
 				<li class="active"><a href="http://cv.safwanc.com">CV</a></li>
 				<li><a href="https://ece.uwaterloo.ca/~schoudhu/" target="blank">UW</a></li>
             </ul>
+          -->
           </div><!--/.nav-collapse -->
         </div>
       </div>
