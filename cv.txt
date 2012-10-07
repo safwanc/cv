@@ -1,0 +1,120 @@
+Safwan Choudhury
+6-114 Highland Road West
+Kitchener, ON. N2M 3B8
+
+Cell: 	+1 (226) 220-8319
+Email: 	im@safwanc.com
+Web: 	http://cv.safwanc.com
+
+=========================================================================================
+EDUCATION
+=========================================================================================
+
+-----------------------------------------------------------------------------------------
+2010 - 2012 | Master of Applied Science | University of Waterloo | Waterloo, ON
+Honours Electrical Engineering, Systems and Controls [Avg. 80+]
+
+MASTERS THESIS
+	Supervisor: Professor Dana Kulic
+	Topic: Robust & Energetically Efficient Walking Control Strategy for Bipedal Robots
+
+	- Electromechanical design and dynamic simulations of a 14DOF bipedal robot.
+	- Proposed a novel walking control strategy for robust bipedal locomotion.
+
+SCHOLARSHIPS & AWARDS
+	NSERC Industrial Postgraduate Scholarship ($21,000/year)
+
+RELEVANT GRADUATE COURSES
+	Multivariate Control Systems
+	Nonlinear Systems
+	Autonomous Mobile Robotics
+	Humanoid Robotics
+	Robot Dynamics and Control
+	Advanced Dynamics
+
+-----------------------------------------------------------------------------------------
+2005 - 2011 | Bachelor of Applied Science | University of Waterloo | Waterloo, ON
+Honours Electrical Engineering, Mechatronics Option, Co-operative Program [Avg. 80+]
+
+
+DESIGN PROJECT 
+	Topic: Thought-Controlled Wheelchair using Electroencephalography
+	
+	- Designed a fully functional prototype of a thought-controlled wheelchair.
+	- Placed first in the annual design cup challenge (among 50+ teams). 
+	
+SCHOLARSHIPS  AWARDS 
+	First Place Infusion Design Cup Challenge ($2,000)
+	Hira & Kamal Ahuja Engineering Award ($1,500)
+
+RELEVANT UNDERGRADUATE COURSES 
+	Kinematics & Dynamics of Machines
+	Analog Control Systems
+	Microprocessor systems & Interfacing
+	Digital Control Applications
+	Machine Intelligence
+	Pattern Recognition
+
+
+=========================================================================================
+WORK EXPERIENCE
+=========================================================================================
+
+-----------------------------------------------------------------------------------------
+2011 - 2012 | NSERC Industrial Postgraduate Scholar | Quanser Inc | Markham, ON
+
+- Recipient of NSERC's Industrial Postgraduate Scholarship program for 2011-2012. 
+- Developing several tools for electromechanical design and dynamic modeling of multibody systems (i.e. robotic/mechatronic applications).
+
+-----------------------------------------------------------------------------------------
+2010 - 2012 | MASc Research Student | University of Waterloo | Waterloo, ON
+
+- Electromechanical design and dynamic model development of a biped humanoid robotic platform for the Adaptive Systems Laboratory (ASL) at the University of Waterloo.
+- Research for Masters of Applied Science thesis in the area of humanoid robotics, specifically in efficient and robust bipedal gait control.
+
+-----------------------------------------------------------------------------------------
+2009 | Hardware Engineer (Coop) | Arista Networks InC | Menlo Park, CA
+
+- Worked in a lab environment analyzing basic signal integrity issues on high speed (10Gb/s) printed circuit board traces with protocols such as XAUI. 
+- Aided with the design of and published hardware specifications for an internal debugging system at Arista Networks, Inc and the contract manufacturer.
+
+-----------------------------------------------------------------------------------------
+2009 | Advanced Technical Work Engineer (Coop) | General Motors | Oshawa, ON
+
+- Developed functional prototype models for three separate Advanced Technical Work (ATW) projects at the Canadian Regional Engineering Center. 
+- Proposed and designed an innovative platform for prototype development which saved GM Canada over 100,000 as a side project during the four month work-term.
+
+-----------------------------------------------------------------------------------------
+2008 | Electrical Bench Engineer (Coop) | General Motors | Oshawa, ON
+
+- Executed detailed bench test procedures for various automotive electrical subsystems connected to a Controller Area Network bus (CAN-bus). 
+- Independently designed a complete and functional prototype model for an advanced technology concept as a side project during the four month work-term. 
+
+-----------------------------------------------------------------------------------------
+2007 | Research Assistant (Coop) | Department of National Defence | Toronto, ON
+
+- Responsible for the continued development of a systems model designed to study behavioral patterns for the Canadian Armed Forces.
+- Independently researched and suggested techniques for improving the existing systems model while working under minimal supervision.
+
+
+=========================================================================================
+PUBLICATIONS
+=========================================================================================
+
+S. Choudhury, D. Wright and D. Kulic, "Rapid Prototyping Toolchain for Humanoid Robotics Applications", IEEE International Conference on Humanoid Robots, 2012, Accepted for Publication.
+
+=========================================================================================
+SKILLS
+=========================================================================================
+
+Design/Simulation
+- Languages: MATLAB, Maple
+- Modeling: Simulink, SimMechanics, MapleSim
+- CAD Tools: SolidWorks, SketchUp
+
+Development
+- Languages: C, C++, C, Shell/Bash
+- Web: HTML, CSS, ASP.NET, JS
+- SCM: Git, SVN
+- Databases: MySQL, MsSQL
+- Networking: CAN bus, I2C
