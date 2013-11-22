@@ -16,7 +16,7 @@
     <!-- CSS Styling -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <style>body { padding-top: 60px; }</style>
-    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/cv.css" rel="stylesheet">
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -100,7 +100,7 @@
         <div class="span9">
           <div class="hero-unit">
             <h2>Hey there!</h2>
-            <p>I'm a R&amp;D Engineer in Systems and Controls at <a href="http://www.quanser.com">Quanser</a>. I have a MASc Graduate Student in Systems &amp; Controls (Robotics) and BASc in Electrical Engineering from the <a href="http://www.uwaterloo.ca">University of Waterloo</a>. Over the past few years, I've built a <a href="https://ece.uwaterloo.ca/~schoudhu/projects/fydp/" target="_blank">thought-controlled wheelchair</a>, designed a <a href="https://ece.uwaterloo.ca/~schoudhu/projects/humanoid/" target="_blank">14DOF humanoid robot</a>, authored a few <a href="http://scholar.google.com/scholar?q=%22Safwan+Choudhury%22" target="_blank">research papers</a> in robotics and presented a <a href="https://ece.uwaterloo.ca/~schoudhu/about/tedxuw/" target="_blank">talk at a TEDx event.</a> </p>
+            <p>I'm a R&amp;D Engineer in Systems and Controls at <a href="http://www.quanser.com">Quanser</a>. I have a MASc in Systems &amp; Controls (Robotics) and BASc in Electrical Engineering from the <a href="http://www.uwaterloo.ca">University of Waterloo</a>. Over the past few years, I've built a <a href="https://ece.uwaterloo.ca/~schoudhu/projects/fydp/" target="_blank">thought-controlled wheelchair</a>, designed a <a href="https://ece.uwaterloo.ca/~schoudhu/projects/humanoid/" target="_blank">14DOF humanoid robot</a>, authored a few <a href="http://scholar.google.com/scholar?q=%22Safwan+Choudhury%22" target="_blank">research papers</a> in robotics and presented a <a href="https://ece.uwaterloo.ca/~schoudhu/about/tedxuw/" target="_blank">talk at a TEDx event.</a> </p>
           </div>
           
           <!-- Project Summaries -->
