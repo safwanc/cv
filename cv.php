@@ -16,7 +16,7 @@
     <!-- CSS Styling -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <style>body { padding-top: 60px; }</style>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/cv.css" rel="stylesheet">
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
