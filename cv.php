@@ -147,9 +147,8 @@
 		<div class="row-fluid">
 			<div class="span8">
 			<p>
-				Copyright &copy; Safwan Choudhury <?php echo date("Y"); ?>. 
+				Copyright &copy; Safwan Choudhury 2014. 
 				Built with <a href="http://twitter.github.com/bootstrap/">Bootstrap</a>.
-				Hosted on <a href="http://www.mediatemple.net">MediaTemple</a>.
 			</p>
 			</div>
 			<div class="span4">
