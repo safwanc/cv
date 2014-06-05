@@ -63,14 +63,14 @@
     <br>
 
 	<!-- Main Content -->
-    <div class="container-fluid">
+    <div class="container">
     <!--
 		<div class="alert">
 		  <button class="close" data-dismiss="alert">×</button>
 		  <strong>Warning!</strong> This page is a work in progress and is still under construction.
 		</div>
 		-->
-      <div class="row-fluid">
+      <div class="row">
       
       	<!-- Left Side -->
         <div class="span3" id="cv-nav">
