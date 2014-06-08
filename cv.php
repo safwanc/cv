@@ -83,9 +83,9 @@
 	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/projects/fydp/" target="_blank">Design Project</a></li>
 	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/projects/humanoid/" target="_blank">Humanoid Project</a></li>
 	              <li><a href="https://ece.uwaterloo.ca/~schoudhu/research/course-projects/" target="_blank">Course Projects</a></li>
-              <li class="nav-header">Speaking</li>
+              <li class="nav-header">Presentations</li>
                 <li><a href="https://ece.uwaterloo.ca/~schoudhu/about/tedxuw/" target="_blank">TEDxUW Talk</a></li>
-              <li class="nav-header">Writing</li>
+              <li class="nav-header">Publications</li>
                 <li><a href="http://scholar.google.com/scholar?q=%22Safwan+Choudhury%22" target="_blank">Research Papers</a></li>
               <li class="nav-header">Elsewhere</li>
 	              <li><a href="http://www.linkedin.com/in/safwanchoudhury" target="_blank">LinkedIn</a></li>
