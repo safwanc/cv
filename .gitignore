@@ -1,4 +1,4 @@
-# OS X 
+# OS X
 .DS_Store
 
 # Thumbnails
@@ -55,7 +55,7 @@ cv.tmproj
 psd
 
 # Personal Information
-tex/meta.tex
+tex/personal.tex
 
 # GitHub Related
 github.php

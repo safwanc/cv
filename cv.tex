@@ -1,13 +1,43 @@
 \documentclass[11pt,letterpaper,sans]{moderncv}
-\usepackage{cv}
 
+% Configure our framework to produce the desired output with moderncv and
+% moderntimeline packages (now built-in for MacTex distributions AFAIK).
+\usepackage{moderntimeline}
+\moderncvstyle{casual}
+\moderncvcolor{grey}
+\usepackage[scale=0.75]{geometry}
+
+% Personal information used to populate the header/footer areas. Additional
+% items are segregated into a separate *.tex file which is not under version
+% control due to privacy issues.
+\firstname{Safwan}
+\familyname{Choudhury}
+\photo[58pt][0.2pt]{img/cv-image.png}
+
+\email{im@safwanc.com}
+\homepage{cv.safwanc.com}
+
+\mobile{+1 (929) 465-3590}
+\email{im@safwanc.com}
+\homepage{cv.safwanc.com}
+
+% If this is a private build (not public, open source version), then uncomment
+% the following line which contains personal information (e.g. address, etc).
+% \input{tex/personal}
+
+% Macros for itemizing
+\newenvironment{tightitemize}
+{\begin{itemize}\setlength{\parskip}{0pt}}
+{\end{itemize}}
+
+% Pull in the various pieces to form our final CV output. 
 \begin{document}
 	\makecvtitle
-	\input{tex/education}
 	\input{tex/experience}
+	\input{tex/education}
 	\input{tex/skills}
-	\input{tex/publications}
 	\input{tex/presentations}
+	\input{tex/publications}
 	\input{tex/volunteering}
 	\input{tex/affiliations}
 \end{document}
